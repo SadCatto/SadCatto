@@ -1,16 +1,14 @@
-### Hi there 👋
+# Rushikesh
 
-<!--
-**SadCatto/SadCatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! :wave:
+    
+-------
+-  ⚡ Rushikesh here. 
+-  🍀 I'm presently learning Next.js.
+-  💭 Feel free to ask me about Node, Javascript.
+-  🍎 Know more about me at [rushikesh.site](https://rushikesh.site).
+-  ⚽ I like to watch Anime and play Football.
+-------
 
-Here are some ideas to get you started:
+[![Rushikesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=SadCatto&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/SadCatto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
