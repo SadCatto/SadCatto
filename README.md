@@ -5,7 +5,7 @@ Hey! :wave:
 -------
 -  ⚡ Rushikesh here. 
 -  🍀 I'm presently learning Next.js.
--  💭 Feel free to ask me about Node, Javascript.
+-  💭 Feel free to ask me about Node, Express, Javascript.
 -  🍎 Know more about me at [rushikesh.site](https://rushikesh.site).
 -  ⚽ I like to watch Anime and play Football.
 -------
